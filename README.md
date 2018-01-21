@@ -1,4 +1,6 @@
 # sales-predictions-in-Kaggle--a-problem-which-requires-time-series-methods
+Project: Corporación Favorita Grocery Sales Forecasting
+
 Due to time limit, only utilized some time-series  methods and the accuracy result just ranked about top 20% in Kaggle. 
 Please note Pandas is slow in some complex operation( during using time-series  methods). 
 So here I coded C in python to enhance the perforamce.
