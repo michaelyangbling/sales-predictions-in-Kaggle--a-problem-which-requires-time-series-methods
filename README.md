@@ -1,5 +1,6 @@
 # sales-predictions-in-Kaggle--a-problem-which-requires-time-series-methods
 Project: Corporación Favorita Grocery Sales Forecasting
+Data are in kaggle.com, about 10 GBs after decompressing with about 120 million row train data and several million row test data.
 
 Due to time limit, only utilized some time-series  methods and the accuracy result just ranked about top 20% in Kaggle. 
 Please note Pandas is slow in some complex operation( during using time-series  methods). 
